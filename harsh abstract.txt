@@ -1,0 +1,6 @@
+Recognisation ,manipulation, design are some of the major parts in the AI playground.The way we play with these models, it increases the user interaction in any bussiness model.
+Aiming this purpose we are creating a prototype(software) which will determine the alphabet which is in the cursive form as an input and will provide the output as a standard english character.
+Parsing to all the methodologies that we will go throughout the process will lead to an efficient,accurate determenation of the text.
+The process starts with the loading of the dataset(input), in this phase the pre-processing of the data occurs. Pre-processing of data follows a particular path in which it takes the raw data and processes it into a structured data,further rendering takes place ,mapping of the data is done. 
+Segmentaion of the data takes place in the further steps as it is the most challenging stage in the recognisation of the text,the quality of segmentaion decides the recognisation accuracy of the text. In the recognisation system smoothing of the text is done in order to map the 
+input with the database that were inhereted from the kaggle and its repository of the data sets. RGB 
